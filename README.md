@@ -1,5 +1,5 @@
 ## Alberto Turcios Ortez 💚
-![amto_dev](https://firebasestorage.googleapis.com/v0/b/paper-92d84.appspot.com/o/wazunga-image%2Famto_dev_opt.png?alt=media&token=00238c38-62e6-46ab-be8a-51a4c7311a3f)
+![amto_dev](https://firebasestorage.googleapis.com/v0/b/paper-92d84.appspot.com/o/wazunga-image%2Famto_dev_option.png?alt=media&token=c350e5b0-3ac4-4836-b272-0568301f5b97)
 
 - 🤓 My Philosophy is "if you can think it, you can do it" 
 - ❤️ Full-Stack Developer Js.
