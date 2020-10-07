@@ -12,5 +12,5 @@
 - 😎 Graphic Design and Photography Enthusiast
 - 💡 Co - Founder of Wazunga Company 
 - ✉️ Contact me: turciosortezalberto@gmail.com
-- 👥 Wazunga's community: https://discord.gg/xTY4p5
+- 👥 Wazunga's community: https://discord.gg/sPAtbVw
 -  🚀 Come in and take a look at our website: 				https://wazungacompany.github.io/wazunga-page/
