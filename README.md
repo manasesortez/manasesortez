@@ -8,6 +8,7 @@
 -  📱 Practicing with Flutter and Kotlin Mobile Apps
 - 🖥️ I like me backend but am frontend lover.
 -  📚 Never Stopped Learning
+- ☘️ I Form part of GitHub Education Student
 - 😎 Graphic Design and Photography Enthusiast
 - 💡 Co - Founder of Wazunga Company 
 - ✉️ Contact me: turciosortezalberto@gmail.com
