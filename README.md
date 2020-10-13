@@ -1,4 +1,4 @@
-## Alberto Turcios Ortez 💚
+## Alberto Manases Turcios Ortez 💚
 ![amto_dev](https://firebasestorage.googleapis.com/v0/b/paper-92d84.appspot.com/o/wazunga-image%2Famto_dev_option.png?alt=media&token=c350e5b0-3ac4-4836-b272-0568301f5b97)
 
 - 🤓 "If you can think it, you can do it" 
