@@ -23,3 +23,11 @@
 - ✉️ Contact me: turciosortezalberto@gmail.com
 - 👥 Wazunga's community: https://discord.gg/sPAtbVw
 -  🚀 Come in and take a look at our website: 				https://wazungacompany.github.io/wazunga-page/
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://twitter.com/amtoDev" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/alberto-turcios-ortez-29b44a1ab/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/manases.ortez/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+</p>
