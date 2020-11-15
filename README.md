@@ -50,7 +50,25 @@
 </p>
 
 # My followers
-<!--START_SECTION:top-followers--> 
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/D3Portillo">
+        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
+      </a>
+      <br />
+      <a href="https://github.com/D3Portillo">Denny Portillo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nhulox97">
+        <img src="https://avatars2.githubusercontent.com/u/36805903" width="100px;" alt="nhulox97"/>
+      </a>
+      <br />
+      <a href="https://github.com/nhulox97">Sergio Bernal</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/amtoDev">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
