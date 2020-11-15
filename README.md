@@ -49,4 +49,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasesortez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
+# My followers
+<!--START_SECTION:top-followers--> 
+<!--END_SECTION:top-followers-->
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/amtoDev">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
