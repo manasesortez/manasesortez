@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 20 * * *'
+    - cron: "0 20 * * *"
 
 jobs:
   top-followers:
@@ -19,7 +19,7 @@ jobs:
       - name: Install requests
         run: pip install requests
       - name: Update README
-        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.TOKEN_SECRET }} README.md
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -31,4 +31,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN_SECRET: ${{ secrets.TOKEN_SECRET }}
+          github_token: ${{ secrets.TOKEN_SECRET }}
