@@ -3,7 +3,7 @@ import sys
 import re
 
 if __name__ == "__main__":
-    assert len(sys.argv) == 13
+    assert len(sys.argv) == 4
     handle = sys.argv[1]
     token = sys.argv[2]
     readmePath = sys.argv[3]
