@@ -39,6 +39,15 @@
 <!-- GitHub stats -->
 <h3 align="left">⚡ My Dev Statistics</h3>
 
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasesortez&show_icons=true&hide_border=true&theme=radical" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasesortez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+
 <!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
@@ -100,13 +109,6 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p>
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasesortez&show_icons=true&hide_border=true&theme=radical" />
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasesortez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
 <h3 align="left">My followers</h3>
 <!--START_SECTION:top-followers-->
