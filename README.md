@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 
-**🐱 My Github Data** 
+** My Github Data ** 
 
 > 📦 22.8 kB Used in Github's Storage 
  > 
