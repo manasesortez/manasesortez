@@ -108,12 +108,6 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/manasesortez/manasesortez/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 <p>
