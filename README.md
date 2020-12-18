@@ -49,7 +49,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -92,16 +92,21 @@ Sunday       75 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: America/El_Salvador
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ████████████████████████░   97.31% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wazunga-page             10 mins             ██████████████████████░░░   88.06% 
+taller-gustavo-api       1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.94%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    12 mins             █████████████████████████   100.0%
 
 ```
 
