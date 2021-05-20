@@ -88,17 +88,16 @@ Sunday       75 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/El_Salvador
 
 💬 Programming Languages: 
-HTML                     16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-martketplace-base        16 mins             █████████████████████████   100.0% 
-wazunga-marketplace-test 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
