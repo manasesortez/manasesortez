@@ -88,13 +88,13 @@ Sunday       75 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/El_Salvador
 
 💬 Programming Languages: 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-martketplace-base        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -118,7 +118,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/manasesortez/manasesortez/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/08/2021
+ Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
 
 
