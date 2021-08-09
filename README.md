@@ -43,9 +43,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasesortez&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-
-
-
 <h3 align="left">My followers</h3>
 <!--START_SECTION:top-followers-->
 <table>
