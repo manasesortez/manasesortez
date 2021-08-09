@@ -47,18 +47,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 49 Contributions in the Year 2021
- > 
-> 📦 60.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
