@@ -45,49 +45,6 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    137 commits    █████████████░░░░░░░░░░░░   53.94% 
-🌆 Daytime    75 commits     ███████░░░░░░░░░░░░░░░░░░   29.53% 
-🌃 Evening    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Tuesday      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.69% 
-Thursday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
-Friday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-Saturday     76 commits     ███████░░░░░░░░░░░░░░░░░░   29.92% 
-Sunday       75 commits     ███████░░░░░░░░░░░░░░░░░░   29.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/El_Salvador
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in JavaScript** 
 
