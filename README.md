@@ -44,27 +44,6 @@
 </p>
 
 
-<!--START_SECTION:waka-->
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-Kotlin                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/manasesortez/manasesortez/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/08/2021
-<!--END_SECTION:waka-->
 
 
 <h3 align="left">My followers</h3>
