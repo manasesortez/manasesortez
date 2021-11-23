@@ -1,4 +1,4 @@
-## amto_dev 💚
+## amtoDev 💚
 ![amto_dev](https://firebasestorage.googleapis.com/v0/b/paper-92d84.appspot.com/o/wazunga-image%2FCopia%20de%20Github%20README%20banner.png?alt=media&token=182914d2-f189-498f-8946-d18e13c7a0c1)
 
 <!-- retro visitor counter -->
